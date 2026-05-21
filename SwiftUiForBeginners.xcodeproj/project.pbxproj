@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		416DE40B2FBF221C000905AB /* SwiftUIViewImages.swift in Sources */ = {isa = PBXBuildFile; fileRef = 416DE40A2FBF221C000905AB /* SwiftUIViewImages.swift */; };
 		4170620D2FB9EB3B005E0796 /* SwiftUiForBeginnersApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4170620C2FB9EB3B005E0796 /* SwiftUiForBeginnersApp.swift */; };
 		4170620F2FB9EB3B005E0796 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4170620E2FB9EB3B005E0796 /* ContentView.swift */; };
 		417062112FB9EB3E005E0796 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 417062102FB9EB3E005E0796 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		416DE40A2FBF221C000905AB /* SwiftUIViewImages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIViewImages.swift; sourceTree = "<group>"; };
 		417062092FB9EB3B005E0796 /* SwiftUi Tutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUi Tutorial.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4170620C2FB9EB3B005E0796 /* SwiftUiForBeginnersApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUiForBeginnersApp.swift; sourceTree = "<group>"; };
 		4170620E2FB9EB3B005E0796 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 			children = (
 				4170620C2FB9EB3B005E0796 /* SwiftUiForBeginnersApp.swift */,
 				4170620E2FB9EB3B005E0796 /* ContentView.swift */,
+				416DE40A2FBF221C000905AB /* SwiftUIViewImages.swift */,
 				417062102FB9EB3E005E0796 /* Assets.xcassets */,
 				417062122FB9EB3E005E0796 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				416DE40B2FBF221C000905AB /* SwiftUIViewImages.swift in Sources */,
 				4170620F2FB9EB3B005E0796 /* ContentView.swift in Sources */,
 				4170620D2FB9EB3B005E0796 /* SwiftUiForBeginnersApp.swift in Sources */,
 			);
