@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUiForBeginnersApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SwiftUIViewOnAppear()
         }
     }
 }
